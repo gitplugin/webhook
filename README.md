@@ -77,3 +77,5 @@
 38. thirty eight
 
 39. thirty nine
+
+40. forty
